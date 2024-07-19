@@ -4,6 +4,9 @@
     <img src="https://skillicons.dev/icons?i=aws,gcp,arch,kali,redhat,cloudflare,raspberrypi,github,gitlab,grafana,visualstudio,vscode,cs,html,css,js,dotnet,docker&perline=9" />
   </a>
 </p>
+<p align="center">
+  The web is ours forever. Pirate everything
+</p>
 
 
 <!--
