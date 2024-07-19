@@ -1,7 +1,10 @@
 ## Hi there 👋
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,arch,kali,redhat,cloudflare,raspberrypi,github,gitlab,grafana,visualstudio,vscode,cs,html,css,js,dotnet,docker&perline=9" />
+  </a>
+</p>
 
-
-[![My Skills](https://skillicons.dev/icons?i=cs,html,css,docker,aws,gcp,arch,cloudflare,raspberrypi)](https://skillicons.dev)
 
 <!--
 **HaxWire/HaxWire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
