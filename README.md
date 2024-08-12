@@ -1,3 +1,5 @@
+## Enjoy your stay ☕
+
 <p align="center">
   HaxWire
 </p>
