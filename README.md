@@ -1,4 +1,4 @@
-## Enjoy your stay ☕
+## We run the internet
 
 <p align="center">
   HaxWire
@@ -9,7 +9,7 @@
   </a>
 </p>
 <p align="center">
-  The web is ours forever. Pirate everything
+  The web is ours forever. Pirate everything 🏴‍☠️
 </p>
 
 
