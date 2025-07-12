@@ -1,7 +1,7 @@
 ## We run the internet
 
 <p align="center">
- <img src="cooltext474081730848022.png" width="auto" height="auto"> 
+ <img src="render-header.webp" width="auto" height="auto"> 
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
