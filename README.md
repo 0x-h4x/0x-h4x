@@ -1,11 +1,11 @@
-## We run the internet
+## we run the internet
 
 <p align="center">
- <img src="render-header.webp" width="auto" height="auto"> 
+ <img src="render-header.webp" width="550" height="auto"> 
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,arch,kali,redhat,raspberrypi,cloudflare,github,gitlab,grafana,visualstudio,vscode,cs,html,css,js,dotnet,docker&perline=9" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,arch,kali,redhat,raspberrypi,cs,html,css,grafana,visualstudio,vscode,cloudflare,github,gitlab,js,dotnet,docker&perline=9" />
   </a>
 </p>
 <p align="center">
