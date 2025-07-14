@@ -14,7 +14,10 @@
 </p>
 <p> </p>
 <p align="center">
-  The web is ours forever. Pirate everything 🏴‍☠️
+  The web runs on freeware. The web is ours forever.
+<p align="center">
+  Pirate everything 🏴‍☠️
+</p>
 </p>
 <p> </p>
 <p> </p>
