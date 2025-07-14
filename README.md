@@ -12,12 +12,18 @@
     <img src="https://skillicons.dev/icons?i=aws,gcp,arch,kali,redhat,raspberrypi,cs,html,css,grafana,visualstudio,vscode,cloudflare,github,gitlab,js,dotnet,docker&perline=9" />
   </a>
 </p>
+<p> </p>
 <p align="center">
   The web is ours forever. Pirate everything 🏴‍☠️
 </p>
+<p> </p>
 
-
-
+<p> </p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/discord.svg"  />
+<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/twitter-x.svg"  />
+<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/youtube.svg"  />
+</div>
 
 
 
