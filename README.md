@@ -17,18 +17,18 @@
   The web is ours forever. Pirate everything 🏴‍☠️
 </p>
 <p> </p>
+<p> </p>
 
-<p> </p>
 <div align="center">
-<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/discord.svg"  />
-<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/twitter-x.svg"  />
-<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/youtube.svg"  />
+ 
+  [![Discord](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/discord.svg)](https://discord.com/users/201721914006175746)
+  [![Twitter](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/twitter-x.svg)](https://x.com/xffline)
+  [![YouTube](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/youtube.svg)](https://www.youtube.com/@H4Xcashmoney)
+  
 </div>
 
 
-
-<p> </p>
-
+##
 
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=0x-h4x.0x-h4x&left_color=black&right_color=darkgrey&left_text=You%20are%20visitor%20"  />
