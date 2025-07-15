@@ -9,7 +9,7 @@
 <p> </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,arch,kali,redhat,raspberrypi,cs,html,css,grafana,visualstudio,vscode,cloudflare,github,gitlab,js,dotnet,docker&perline=9" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,arch,kali,redhat,raspberrypi,cs,html,css,grafana,vscode,cloudflare,azure,gitlab,php,js,dotnet,docker&perline=9" />
   </a>
 </p>
 <p> </p>
