@@ -3,7 +3,7 @@
 <p> </p>
 <p> </p>
 <p align="center">
- <img src="logo.png" width="400" height="280"> 
+ <img src="hax-studios.png" width="400" height="280"> 
 </p>
 <p> </p>
 <p> </p>
