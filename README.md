@@ -3,7 +3,7 @@
 <p> </p>
 <p> </p>
 <p align="center">
- <img src="render-header.webp" width="550" height="auto"> 
+ <img src="y2k-logo-hax.png" width="550" height="auto"> 
 </p>
 <p> </p>
 <p> </p>
