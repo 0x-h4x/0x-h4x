@@ -24,7 +24,7 @@
 
 <div align="center">
  
-  [![Discord](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/discord.svg)](https://discord.com/users/201721914006175746)
+  [![Discord](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/discord.svg)](https://discord.gg/bcs2Ce4YvX)
   [![Twitter](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/twitter-x.svg)](https://x.com/xffline)
   [![YouTube](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/youtube.svg)](https://www.youtube.com/@H4Xcashmoney)
   
