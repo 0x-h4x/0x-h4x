@@ -30,9 +30,12 @@
   
 </div>
 
-<div>
- <img src="Spyder-logo.png" align=right width="90" height="auto">
-</div>
+<p align="center">
+  <a href="https://github.com/Spyder-Hosting/">
+    <img src="https://github.com/Spyder-Hosting/.github/raw/main/profile/Spyder-logo-white.png" alt="Spyder Hosting" width="90">
+  </a>
+</p>
+
 
 <p> </p><p> </p>
 
