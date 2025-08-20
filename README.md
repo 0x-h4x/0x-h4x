@@ -34,6 +34,9 @@
 <p align="center">
   <a href="https://github.com/Spyder-Hosting/">
     <img src="https://github.com/Spyder-Hosting/.github/raw/main/profile/Spyder-logo-white.png" alt="Spyder Hosting" width="90">
+    <br />
+  🕸️ Built for the web. Engineered for the future. 🕷️<br/>
+  <em>Cyber-inspired web hosting, for everyone.</em>
   </a>
 </p>
 
