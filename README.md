@@ -33,7 +33,7 @@
 </p>
 
 
-
+<br></br>
 <br></br>
 
 <div align="center">
@@ -44,22 +44,8 @@
 
 </div>
 
-
-<br></br>
-<br></br>
-
-<p align="center">
-  <a href="https://github.com/Spyder-Hosting/">
-    <img src="https://github.com/Spyder-Hosting/.github/raw/main/profile/Spyder-logo-white.png" alt="Spyder Hosting" width="100">
-    <br/>
-    🕸️ <strong>Built for the current web. Engineered for the future.</strong> 🕷️  
-    <em>Cyber-inspired web hosting, for everyone.</em>
-  </a>
-</p>
-
-<br></br>
-
 ---
+
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=0x-h4x.0x-h4x&left_color=black&right_color=darkgrey&left_text=Visitors"  /> 
 </div>
