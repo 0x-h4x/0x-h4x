@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Code&size=16&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Free+the+web.+Hack+the+planet.;We+are+the+new+pirates.;Resist+the+WWW+cencorship" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Code&size=16&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Free+the+web.+Hack+the+planet.;We+are+the+new+pirates.;Resist+the++censorship" alt="Typing Animation">
 </p>
 
 <p align="center">
@@ -17,6 +17,7 @@
   </a>
 </p>
 
+<br></br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Hack-The%20Planet-black?style=for-the-badge&logo=protonmail&logoColor=white"/>
@@ -28,6 +29,8 @@
 
 
 ##
+
+<br></br>
 
 <p align="center">
   <em>"The web runs on freeware.  
