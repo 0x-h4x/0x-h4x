@@ -20,7 +20,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Hack-The%20Planet-black?style=for-the-badge&logo=protonmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Built%20on-Linux-green?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Built%20on-Linux-violet?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Made%20with-💀%20Open%20Code-black?style=for-the-badge"/>
 </p>
 
@@ -28,8 +28,8 @@
 
 <p align="center">
   <em>"The web runs on freeware.  
-  The web is ours forever.  
-  Pirate everything 🏴‍☠️"</em>
+  The web is ours forever. </p>
+ <p align="center"> Pirate everything 🏴‍☠️"
 </p>
 
 
