@@ -20,9 +20,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Hack-The%20Planet-black?style=for-the-badge&logo=protonmail&logoColor=white"/>
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Built%20on-Linux-violet?style=for-the-badge&logo=linux&logoColor=white"/>
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Made%20with-💀%20Open%20Code-black?style=for-the-badge"/>
 </p>
+
 
 ##
 
