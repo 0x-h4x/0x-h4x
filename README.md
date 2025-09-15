@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Code&size=16&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Free+the+web.+Hack+the+planet.;We+are+the+new+pirates.;Resist+the++censorship" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Code&size=16&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Free+the+web.+Hack+the+planet.;We+are+the+new+pirates.;Resist+censorship." alt="Typing Animation">
 </p>
 
 <p align="center">
