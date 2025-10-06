@@ -19,13 +19,15 @@
 
 <br></br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Hack-The%20Planet-black?style=for-the-badge&logo=protonmail&logoColor=white"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Built%20on-Linux-violet?style=for-the-badge&logo=linux&logoColor=white"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Made%20with-💀%20Open%20Code-black?style=for-the-badge"/>
-</p>
+Hello!
+My name is Hax.<br>
+CEO for Spyder Hosting.<br>
+This github is a dumping ground for my useful and not so useful projects.<br>
+Check out my latest [projects](https://github.com/0x-h4x?tab=repositories).
+
+
+
+
 
 
 ##
@@ -49,6 +51,7 @@
   [![YouTube](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/youtube.svg)](https://www.youtube.com/@H4Xcashmoney)
 
 </div>
+
 
 ---
 
