@@ -11,26 +11,28 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Code&size=16&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Free+the+web.+Hack+the+planet.;We+are+the+new+pirates.;Resist+censorship." alt="Typing Animation">
 </p>
 
+
+<p align="left">
+  Hello!<br>
+  My name is Hax.<br>
+  CEO for Spyder Hosting.<br>
+  This GitHub is a dumping ground for my useful and not so useful projects.<br>
+  Check out my latest <a href="https://github.com/0x-h4x?tab=repositories">projects</a>.
+</p>
+
+##
+
+<br></br>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,gcp,arch,kali,redhat,raspberrypi,cs,html,css,grafana,vscode,cloudflare,azure,gitlab,php,js,dotnet,docker&perline=9" />
   </a>
 </p>
 
-<br></br>
-
-Hello!
-My name is Hax.<br>
-CEO for Spyder Hosting.<br>
-This github is a dumping ground for my useful and not so useful projects.<br>
-Check out my latest [projects](https://github.com/0x-h4x?tab=repositories).
 
 
 
-
-
-
-##
 
 <br></br>
 
