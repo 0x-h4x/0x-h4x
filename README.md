@@ -27,10 +27,10 @@ Check out my latest <a href="https://github.com/0x-h4x?tab=repositories">project
 </p>
 <p align="center">
      <a href="https://github.com/0x-h4x/OnlineDrinkCabinet">
-  <img src="OnlineDrinkCabinet.png" width="120" height="120" alt="Drinkme"/>  
+  <img src="OnlineDrinkCabinet.png" width="100" height="100" alt="Drinkme"/>  
         <a/>
     <a href="spy-dr.io">
-   <img src="https://github.com/Spyder-Hosting/.github/blob/main/profile/Spyder-logo-white.png" width="120" height="120" alt="Drinkme"/>
+   <img src="https://github.com/Spyder-Hosting/.github/blob/main/profile/Spyder-logo-white.png" width="100" height="100" alt="Drinkme"/>
     </a>
 </p>
 
